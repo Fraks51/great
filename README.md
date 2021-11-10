@@ -62,3 +62,7 @@ dataset comprises individual files licensed under different terms. Please take
 appropriate care when using this dataset.
 
 Example code that uses the data is available in a separate repository [https://github.com/VHellendoorn/ICLR20-Great].
+
+## Fork notes
+
+Dataset was reduced by 2 times
