@@ -23,7 +23,7 @@ def main():
             set_tokens.add(token)
 
     print(len(set_tokens))
-    f = open("../ICLR20-Great/single_tokens_vocab.txt", "a")
+    f = open("single_tokens_vocab.txt", "a")
     f.write("\n".join(set_tokens))
     f.close()
 
